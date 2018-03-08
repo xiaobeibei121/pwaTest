@@ -3,7 +3,7 @@
   "name": "这是一个完整名称",
   "theme_color": "#FFDF00",
   "background_color": "#FFDF00",
-  "icon": [
+  "icons": [
     {
       "src": "/logo.png",
       "type": "image/png",
