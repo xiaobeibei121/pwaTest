@@ -3,10 +3,10 @@
   "name": "这是一个完整名称",
   "icon": [
     {
-      "src": "./logo.jpg",
+      "src": "/logo.jpg",
       "type": "image/jpg",
       "sizes": "144x144"
     }
   ],
-  "start_url": "./index.html"
+  "start_url": "/"
 }
