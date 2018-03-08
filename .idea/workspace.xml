@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae193270-ee2b-495a-9f4f-4295d40c0a89" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest.json" afterPath="$PROJECT_DIR$/manifest.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -222,12 +221,12 @@
       <option name="presentableId" value="Default" />
       <updated>1520491115852</updated>
       <workItem from="1520491118889" duration="63000" />
-      <workItem from="1520491248898" duration="6657000" />
+      <workItem from="1520491248898" duration="6790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6720000" />
+    <option name="totallyTimeSpent" value="6853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1252" height="708" extended-state="0" />
