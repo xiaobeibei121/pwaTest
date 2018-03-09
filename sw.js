@@ -1,5 +1,5 @@
 self.addEventListener('fetch', function(event) {
   if (/\.jpg$/.test(event.request.url)) {
-    event.respondWith(fetch('/logo.png'));
+    event.respondWith(fetch('logo.png'));
   }
 });
