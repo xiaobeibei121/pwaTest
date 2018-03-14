@@ -11,6 +11,7 @@
 <img src="sqb_bg.jpg"/>
 <script>
     if ('serviceWorker' in navigator) {
+        alert(1);
         window.addEventListener('load', function () {
             navigator.serviceWorker.register('./sw.js')
                 .then(function (registration) {
@@ -22,6 +23,8 @@
                     alert('ServiceWorker registration failed: ', err);
                 });
         });
+    } else {
+        alert(2);
     }
 </script>
 </body>
